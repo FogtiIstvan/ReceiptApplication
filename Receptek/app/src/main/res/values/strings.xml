@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="remove">Details</string>
+    <string name="new_city_hint" />
+
+    <string-array name="mealtype_category_items">
+        <item>None</item>
+        <item>Breakfast</item>
+        <item>Dinner</item>
+        <item>Lunch</item>
+        <item>Snack</item>
+        <item>Teatime</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="maximum_number_of_ingredients">Maximum number of ingredients:</string>
+    <string name="instructions">Instructions: </string>
+    <string name="source_of_recipe">Source of Recipe (for more details) :</string>
+    <string name="cuisine">Cuisine:</string>
+    <string name="calories">Calories:</string>
+    <string name="searchword">Searchword</string>
+    <string name="choose_the_mealtype">Choose the mealtype:</string>
+    <string name="other_criterias">Other criterias:</string>
+</resources>
